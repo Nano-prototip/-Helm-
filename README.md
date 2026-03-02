@@ -2,8 +2,7 @@
 
 ## Задание 1. Подготовить Helm-чарт для приложения
 
-[Helm-чарт]<img width="462" height="124" alt="498484594-b2662de8-8c71-4722-822e-8b7ac3d193b9" src="https://github.com/user-attachments/assets/e2614e09-ae9d-4e0a-9831-25cf7ab7dfe9" />
-
+[Helm-чарт](<img width="462" height="124" alt="498484594-b2662de8-8c71-4722-822e-8b7ac3d193b9" src="https://github.com/user-attachments/assets/e1648c80-4279-46c9-9f3f-82438f6090f6" />)
 
 Установка:
 
